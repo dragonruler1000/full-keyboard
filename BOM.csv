@@ -1,11 +1,11 @@
 Item Count,item name,Unit price $,Total Price,Price with coupons,Link,Running total $,Running total with coupons,Notes
 1,RP Pico,5,5,5,https://www.adafruit.com/product/5525,5.3,5.3,
-1,MCP23017-E/S0,1.64,1.64,1.64,https://www.lcsc.com/product-detail/C47023.html?s_z=n_MCP23017,7.04,7.04,
-11,"Kailh Hotswap PCB Sockets MX / Choc
-",3.95,43.45,43.45,https://kriscables.com/product/kailh-hotswap-pcb-sockets/,53.1,53.1,comes in packs of 10
-110,1N4148-t50A diode,0.0307,3.377,3.377,https://www.lcsc.com/product-detail/C895215.html,56.68,56.68,comes in packs of 10
-3,4.7kΩ Resister,0.01,0.03,0.03,https://www.lcsc.com/product-detail/C172560.html,56.71,56.71,
-108,keycaps,0,0,0,https://www.printables.com/model/118708-simple-cherry-mx-keycap,56.71,56.71,1g each can print myself
-1,Gateron G Pro 3.0 Blue Switches,32.99,32.99,32.99,https://www.amazon.com/Switches-Mechanical-Keyboard-Pre-Lubed-Pin-Enhanced/dp/B0CJ8SGL6B,91.68,91.68,packs of 36
-2,rotary encoder,2.0017,4.0034,4.0034,https://www.lcsc.com/product-detail/C470754.html?s_z=n_EC11,95.92,95.92,
-,,,0,0,,95.92,95.92,
+1,MCP23017-E/SP,1.69,1.69,1.69,https://www.digikey.com/en/products/detail/microchip-technology/MCP23017-E-SP/894272?s=N4IgjCBcoGwJxVAYygMwIYBsDOBTANCAPZQDaIALGGABxwDsIAuoQA4AuUIAyuwE4BLAHYBzEAF9xhAExkQAWQDCABWkBmAAxhGTcUA,7.09,7.09,
+1,"Kailh Hotswap PCB Sockets MX / Choc
+",12.99,12.99,12.99,https://www.amazon.com/DUROCK-Mechanical-Keyboard-Switches-Hot-Swap/dp/B0B4W9YMGM,20.86,20.86,pack of 110
+110,1N4148-t50A diode,0.0307,3.377,3.377,https://www.lcsc.com/product-detail/C895215.html,24.44,24.44,comes in packs of 10
+3,4.7kΩ Resister,0.01,0.03,0.03,https://www.lcsc.com/product-detail/C172560.html,24.47,24.47,
+108,keycaps,0,0,0,https://www.printables.com/model/118708-simple-cherry-mx-keycap,24.47,24.47,1g each can print myself
+1,Gateron G Pro 3.0 Blue Switches,32.99,32.99,32.99,https://www.amazon.com/Switches-Mechanical-Keyboard-Pre-Lubed-Pin-Enhanced/dp/B0CJ8SGL6B,59.44,59.44,packs of 36
+2,rotary encoder,2.0017,4.0034,4.0034,https://www.lcsc.com/product-detail/C470754.html?s_z=n_EC11,63.68,63.68,
+,,,0,0,,63.68,63.68,
