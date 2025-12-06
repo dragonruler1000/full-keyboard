@@ -4,3 +4,6 @@
 [submodule "key-switches.pretty"]
 	path = key-switches.pretty
 	url = https://github.com/siderakb/key-switches.pretty.git
+[submodule "PCB/Footprints/kicad-libraries"]
+	path = PCB/Footprints/kicad-libraries
+	url = https://github.com/sszczep/kicad-libraries.git
