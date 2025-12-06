@@ -4263,7 +4263,7 @@
 	(footprint "key-switches:SW_MX_Kailh_Choc_V1V2_THT_Hybrid"
 		(layer "F.Cu")
 		(uuid "0ab01aff-5426-4d79-b3a1-48b5f8e19fc3")
-		(at 385.38 363.15)
+		(at 214 63.65)
 		(descr "Compatible with Cherry MX, Kailh Choc V1 (PG1350) and Choc V2 (PG1353) mechanical keyboard switch, through-hole soldering, single-sided mounting.")
 		(tags "switch, low_profile")
 		(property "Reference" "SW8"
@@ -17159,7 +17159,7 @@
 	(footprint "key-switches:SW_MX_Kailh_Choc_V1V2_THT_Hybrid"
 		(layer "F.Cu")
 		(uuid "3314c6bb-0414-460d-ae39-a68908e4294d")
-		(at 385.38 433.35)
+		(at 302 63.15)
 		(descr "Compatible with Cherry MX, Kailh Choc V1 (PG1350) and Choc V2 (PG1353) mechanical keyboard switch, through-hole soldering, single-sided mounting.")
 		(tags "switch, low_profile")
 		(property "Reference" "SW12"
@@ -20253,7 +20253,7 @@
 	(footprint "key-switches:SW_MX_Kailh_Choc_V1V2_THT_Hybrid"
 		(layer "F.Cu")
 		(uuid "3c8d0b5b-60e0-4fa0-b0f5-0f860a9d950b")
-		(at 385.38 415.8)
+		(at 282.58 64)
 		(descr "Compatible with Cherry MX, Kailh Choc V1 (PG1350) and Choc V2 (PG1353) mechanical keyboard switch, through-hole soldering, single-sided mounting.")
 		(tags "switch, low_profile")
 		(property "Reference" "SW11"
@@ -23315,7 +23315,7 @@
 	(footprint "key-switches:SW_MX_Kailh_Choc_V1V2_THT_Hybrid"
 		(layer "F.Cu")
 		(uuid "4365e4bd-d282-46aa-9668-e415816a0841")
-		(at 402.93 328.05)
+		(at 431 63.65)
 		(descr "Compatible with Cherry MX, Kailh Choc V1 (PG1350) and Choc V2 (PG1353) mechanical keyboard switch, through-hole soldering, single-sided mounting.")
 		(tags "switch, low_profile")
 		(property "Reference" "SW18"
@@ -41501,7 +41501,7 @@
 	(footprint "key-switches:SW_MX_Kailh_Choc_V1V2_THT_Hybrid"
 		(layer "F.Cu")
 		(uuid "78165149-dc1c-4872-a053-16bc36dc8211")
-		(at 402.93 257.85)
+		(at 347 63.15)
 		(descr "Compatible with Cherry MX, Kailh Choc V1 (PG1350) and Choc V2 (PG1353) mechanical keyboard switch, through-hole soldering, single-sided mounting.")
 		(tags "switch, low_profile")
 		(property "Reference" "SW14"
@@ -48880,7 +48880,7 @@
 	(footprint "key-switches:SW_MX_Kailh_Choc_V1V2_THT_Hybrid"
 		(layer "F.Cu")
 		(uuid "8f46879a-de22-4aa9-8ff7-fabeb197e4f2")
-		(at 385.38 398.25)
+		(at 263.08 63.5)
 		(descr "Compatible with Cherry MX, Kailh Choc V1 (PG1350) and Choc V2 (PG1353) mechanical keyboard switch, through-hole soldering, single-sided mounting.")
 		(tags "switch, low_profile")
 		(property "Reference" "SW10"
@@ -61434,7 +61434,7 @@
 	(footprint "key-switches:SW_MX_Kailh_Choc_V1V2_THT_Hybrid"
 		(layer "F.Cu")
 		(uuid "afa2e803-6068-4f57-a4fc-fc64aba2d2a8")
-		(at 385.38 380.7)
+		(at 233.5 63.65)
 		(descr "Compatible with Cherry MX, Kailh Choc V1 (PG1350) and Choc V2 (PG1353) mechanical keyboard switch, through-hole soldering, single-sided mounting.")
 		(tags "switch, low_profile")
 		(property "Reference" "SW9"
@@ -77304,7 +77304,7 @@
 	(footprint "key-switches:SW_MX_Kailh_Choc_V1V2_THT_Hybrid"
 		(layer "F.Cu")
 		(uuid "ca784cc5-a7c8-45ad-9386-09cfe65d9e66")
-		(at 402.93 310.5)
+		(at 411.08 63.5)
 		(descr "Compatible with Cherry MX, Kailh Choc V1 (PG1350) and Choc V2 (PG1353) mechanical keyboard switch, through-hole soldering, single-sided mounting.")
 		(tags "switch, low_profile")
 		(property "Reference" "SW17"
@@ -91175,7 +91175,7 @@
 	(footprint "key-switches:SW_MX_Kailh_Choc_V1V2_THT_Hybrid"
 		(layer "F.Cu")
 		(uuid "eed82201-d2de-4377-a894-80677098f164")
-		(at 402.93 240.3)
+		(at 322.5 63.65)
 		(descr "Compatible with Cherry MX, Kailh Choc V1 (PG1350) and Choc V2 (PG1353) mechanical keyboard switch, through-hole soldering, single-sided mounting.")
 		(tags "switch, low_profile")
 		(property "Reference" "SW13"
@@ -91723,7 +91723,7 @@
 	(footprint "key-switches:SW_MX_Kailh_Choc_V1V2_THT_Hybrid"
 		(layer "F.Cu")
 		(uuid "f1cd83fa-a67f-4d04-a453-507c7f55a685")
-		(at 402.93 275.4)
+		(at 367 63.5)
 		(descr "Compatible with Cherry MX, Kailh Choc V1 (PG1350) and Choc V2 (PG1353) mechanical keyboard switch, through-hole soldering, single-sided mounting.")
 		(tags "switch, low_profile")
 		(property "Reference" "SW15"
@@ -95058,7 +95058,7 @@
 	(footprint "key-switches:SW_MX_Kailh_Choc_V1V2_THT_Hybrid"
 		(layer "F.Cu")
 		(uuid "faee7eb7-3e5a-4b19-8ebe-f589063c5740")
-		(at 402.93 292.95)
+		(at 387 63.65)
 		(descr "Compatible with Cherry MX, Kailh Choc V1 (PG1350) and Choc V2 (PG1353) mechanical keyboard switch, through-hole soldering, single-sided mounting.")
 		(tags "switch, low_profile")
 		(property "Reference" "SW16"
