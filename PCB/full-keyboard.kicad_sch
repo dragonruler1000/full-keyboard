@@ -12213,7 +12213,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "custom1:MX_SK6812MINI-E_REV"
 			(at 76.2 156.21 0)
 			(effects
 				(font
@@ -12288,7 +12288,7 @@
 				)
 			)
 		)
-		(property "Footprint" "key-switches:SW_MX_Kailh_Choc_V1V2_THT_Hybrid"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 177.8 87.63 0)
 			(effects
 				(font
@@ -12356,7 +12356,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "custom1:MX_SK6812MINI-E_REV"
 			(at 57.15 234.95 0)
 			(effects
 				(font
@@ -12432,7 +12432,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "custom1:MX_SK6812MINI-E_REV"
 			(at 53.34 200.66 0)
 			(effects
 				(font
@@ -12508,7 +12508,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "custom1:MX_SK6812MINI-E_REV"
 			(at 36.83 195.58 0)
 			(effects
 				(font
@@ -12584,7 +12584,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "custom1:MX_SK6812MINI-E_REV"
 			(at 148.59 161.29 0)
 			(effects
 				(font
@@ -12726,7 +12726,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "custom1:MX_SK6812MINI-E_REV"
 			(at 167.64 161.29 0)
 			(effects
 				(font
@@ -13066,7 +13066,7 @@
 				)
 			)
 		)
-		(property "Footprint" "key-switches:SW_MX_Kailh_Choc_V1V2_THT_Hybrid"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 64.77 87.63 0)
 			(effects
 				(font
@@ -13222,7 +13222,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "custom1:MX_SK6812MINI-E_REV"
 			(at 110.49 240.03 0)
 			(effects
 				(font
@@ -13474,7 +13474,7 @@
 				)
 			)
 		)
-		(property "Footprint" "key-switches:SW_MX_Kailh_Choc_V1V2_THT_Hybrid"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 245.11 102.87 0)
 			(effects
 				(font
@@ -13542,7 +13542,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "custom1:MX_SK6812MINI-E_REV"
 			(at 57.15 156.21 0)
 			(effects
 				(font
@@ -13618,7 +13618,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "custom1:MX_SK6812MINI-E_REV"
 			(at 114.3 273.05 0)
 			(effects
 				(font
@@ -13694,7 +13694,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "custom1:MX_SK6812MINI-E_REV"
 			(at 95.25 312.42 0)
 			(effects
 				(font
@@ -13770,7 +13770,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "custom1:MX_SK6812MINI-E_REV"
 			(at 74.93 354.33 0)
 			(effects
 				(font
@@ -13846,7 +13846,7 @@
 				)
 			)
 		)
-		(property "Footprint" "key-switches:SW_MX_Kailh_Choc_V1V2_THT_Hybrid"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_2.00u"
 			(at 275.59 54.61 0)
 			(effects
 				(font
@@ -14002,7 +14002,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "custom1:MX_SK6812MINI-E_REV"
 			(at 53.34 278.13 0)
 			(effects
 				(font
@@ -14078,7 +14078,7 @@
 				)
 			)
 		)
-		(property "Footprint" "key-switches:SW_MX_Kailh_Choc_V1V2_THT_Hybrid"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 260.35 87.63 0)
 			(effects
 				(font
@@ -14146,7 +14146,7 @@
 				)
 			)
 		)
-		(property "Footprint" "key-switches:SW_MX_Kailh_Choc_V1V2_THT_Hybrid"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 210.82 87.63 0)
 			(effects
 				(font
@@ -14214,7 +14214,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "custom1:MX_SK6812MINI-E_REV"
 			(at 133.35 312.42 0)
 			(effects
 				(font
@@ -14290,7 +14290,7 @@
 				)
 			)
 		)
-		(property "Footprint" "key-switches:SW_MX_Kailh_Choc_V1V2_THT_Hybrid"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_2.75u"
 			(at 260.35 102.87 0)
 			(effects
 				(font
@@ -14358,7 +14358,7 @@
 				)
 			)
 		)
-		(property "Footprint" "key-switches:SW_MX_Kailh_Choc_V1V2_THT_Hybrid"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.25u"
 			(at 97.79 119.38 0)
 			(effects
 				(font
@@ -14602,7 +14602,7 @@
 				)
 			)
 		)
-		(property "Footprint" "key-switches:SW_MX_Kailh_Choc_V1V2_THT_Hybrid"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 245.11 71.12 0)
 			(effects
 				(font
@@ -14758,7 +14758,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "custom1:MX_SK6812MINI-E_REV"
 			(at 190.5 234.95 0)
 			(effects
 				(font
@@ -14988,7 +14988,7 @@
 				)
 			)
 		)
-		(property "Footprint" "key-switches:SW_MX_Kailh_Choc_V1V2_THT_Hybrid"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 97.79 36.83 0)
 			(effects
 				(font
@@ -15056,7 +15056,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "custom1:MX_SK6812MINI-E_REV"
 			(at 209.55 195.58 0)
 			(effects
 				(font
@@ -15132,7 +15132,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "custom1:MX_SK6812MINI-E_REV"
 			(at 91.44 161.29 0)
 			(effects
 				(font
@@ -15208,7 +15208,7 @@
 				)
 			)
 		)
-		(property "Footprint" "key-switches:SW_MX_Kailh_Choc_V1V2_THT_Hybrid"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 161.29 102.87 0)
 			(effects
 				(font
@@ -15518,7 +15518,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "custom1:MX_SK6812MINI-E_REV"
 			(at 36.83 312.42 0)
 			(effects
 				(font
@@ -15682,7 +15682,7 @@
 				)
 			)
 		)
-		(property "Footprint" "key-switches:SW_MX_Kailh_Choc_V1V2_THT_Hybrid"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 161.29 71.12 0)
 			(effects
 				(font
@@ -15750,7 +15750,7 @@
 				)
 			)
 		)
-		(property "Footprint" "key-switches:SW_MX_Kailh_Choc_V1V2_THT_Hybrid"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 260.35 36.83 0)
 			(effects
 				(font
@@ -15994,7 +15994,7 @@
 				)
 			)
 		)
-		(property "Footprint" "key-switches:SW_MX_Kailh_Choc_V1V2_THT_Hybrid"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 339.09 119.38 0)
 			(effects
 				(font
@@ -16062,7 +16062,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "custom1:MX_SK6812MINI-E_REV"
 			(at 53.34 240.03 0)
 			(effects
 				(font
@@ -16138,7 +16138,7 @@
 				)
 			)
 		)
-		(property "Footprint" "key-switches:SW_MX_Kailh_Choc_V1V2_THT_Hybrid"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 130.81 71.12 0)
 			(effects
 				(font
@@ -16294,7 +16294,7 @@
 				)
 			)
 		)
-		(property "Footprint" "key-switches:SW_MX_Kailh_Choc_V1V2_THT_Hybrid"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 245.11 87.63 0)
 			(effects
 				(font
@@ -16538,7 +16538,7 @@
 				)
 			)
 		)
-		(property "Footprint" "key-switches:SW_MX_Kailh_Choc_V1V2_THT_Hybrid"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 64.77 54.61 0)
 			(effects
 				(font
@@ -16672,7 +16672,7 @@
 				)
 			)
 		)
-		(property "Footprint" "key-switches:SW_MX_Kailh_Choc_V1V2_THT_Hybrid"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 177.8 54.61 0)
 			(effects
 				(font
@@ -16740,7 +16740,7 @@
 				)
 			)
 		)
-		(property "Footprint" "key-switches:SW_MX_Kailh_Choc_V1V2_THT_Hybrid"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 195.58 36.83 0)
 			(effects
 				(font
@@ -16808,7 +16808,7 @@
 				)
 			)
 		)
-		(property "Footprint" "key-switches:SW_MX_Kailh_Choc_V1V2_THT_Hybrid"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 130.81 36.83 0)
 			(effects
 				(font
@@ -16876,7 +16876,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "custom1:MX_SK6812MINI-E_REV"
 			(at 186.69 240.03 0)
 			(effects
 				(font
@@ -16952,7 +16952,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "custom1:MX_SK6812MINI-E_REV"
 			(at 34.29 240.03 0)
 			(effects
 				(font
@@ -17028,7 +17028,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "custom1:MX_SK6812MINI-E_REV"
 			(at 72.39 200.66 0)
 			(effects
 				(font
@@ -17258,7 +17258,7 @@
 				)
 			)
 		)
-		(property "Footprint" "key-switches:SW_MX_Kailh_Choc_V1V2_THT_Hybrid"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 130.81 102.87 0)
 			(effects
 				(font
@@ -17326,7 +17326,7 @@
 				)
 			)
 		)
-		(property "Footprint" "key-switches:SW_MX_Kailh_Choc_V1V2_THT_Hybrid"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.25u"
 			(at 210.82 119.38 0)
 			(effects
 				(font
@@ -17394,7 +17394,7 @@
 				)
 			)
 		)
-		(property "Footprint" "key-switches:SW_MX_Kailh_Choc_V1V2_THT_Hybrid"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_2.00u_90deg"
 			(at 114.3 87.63 0)
 			(effects
 				(font
@@ -17550,7 +17550,7 @@
 				)
 			)
 		)
-		(property "Footprint" "key-switches:SW_MX_Kailh_Choc_V1V2_THT_Hybrid"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 210.82 71.12 0)
 			(effects
 				(font
@@ -17618,7 +17618,7 @@
 				)
 			)
 		)
-		(property "Footprint" "key-switches:SW_MX_Kailh_Choc_V1V2_THT_Hybrid"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 48.26 71.12 0)
 			(effects
 				(font
@@ -17686,7 +17686,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "custom1:MX_SK6812MINI-E_REV"
 			(at 132.08 354.33 0)
 			(effects
 				(font
@@ -17938,7 +17938,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "custom1:MX_SK6812MINI-E_REV"
 			(at 148.59 278.13 0)
 			(effects
 				(font
@@ -18014,7 +18014,7 @@
 				)
 			)
 		)
-		(property "Footprint" "key-switches:SW_MX_Kailh_Choc_V1V2_THT_Hybrid"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 228.6 54.61 0)
 			(effects
 				(font
@@ -18082,7 +18082,7 @@
 				)
 			)
 		)
-		(property "Footprint" "key-switches:SW_MX_Kailh_Choc_V1V2_THT_Hybrid"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 64.77 102.87 0)
 			(effects
 				(font
@@ -18150,7 +18150,7 @@
 				)
 			)
 		)
-		(property "Footprint" "key-switches:SW_MX_Kailh_Choc_V1V2_THT_Hybrid"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 275.59 71.12 0)
 			(effects
 				(font
@@ -18284,7 +18284,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "custom1:MX_SK6812MINI-E_REV"
 			(at 36.83 234.95 0)
 			(effects
 				(font
@@ -18360,7 +18360,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "custom1:MX_SK6812MINI-E_REV"
 			(at 207.01 240.03 0)
 			(effects
 				(font
@@ -18436,7 +18436,7 @@
 				)
 			)
 		)
-		(property "Footprint" "key-switches:SW_MX_Kailh_Choc_V1V2_THT_Hybrid"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 307.34 102.87 0)
 			(effects
 				(font
@@ -18834,7 +18834,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "custom1:MX_SK6812MINI-E_REV"
 			(at 190.5 312.42 0)
 			(effects
 				(font
@@ -18998,7 +18998,7 @@
 				)
 			)
 		)
-		(property "Footprint" "key-switches:SW_MX_Kailh_Choc_V1V2_THT_Hybrid"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 81.28 71.12 0)
 			(effects
 				(font
@@ -19066,7 +19066,7 @@
 				)
 			)
 		)
-		(property "Footprint" "key-switches:SW_MX_Kailh_Choc_V1V2_THT_Hybrid"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_2.25u"
 			(at 323.85 87.63 0)
 			(effects
 				(font
@@ -19200,7 +19200,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "custom1:MX_SK6812MINI-E_REV"
 			(at 34.29 200.66 0)
 			(effects
 				(font
@@ -19804,7 +19804,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "custom1:MX_SK6812MINI-E_REV"
 			(at 72.39 161.29 0)
 			(effects
 				(font
@@ -19880,7 +19880,7 @@
 				)
 			)
 		)
-		(property "Footprint" "key-switches:SW_MX_Kailh_Choc_V1V2_THT_Hybrid"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 260.35 71.12 0)
 			(effects
 				(font
@@ -20124,7 +20124,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "custom1:MX_SK6812MINI-E_REV"
 			(at 114.3 156.21 0)
 			(effects
 				(font
@@ -20200,7 +20200,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "custom1:MX_SK6812MINI-E_REV"
 			(at 167.64 200.66 0)
 			(effects
 				(font
@@ -20276,7 +20276,7 @@
 				)
 			)
 		)
-		(property "Footprint" "key-switches:SW_MX_Kailh_Choc_V1V2_THT_Hybrid"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 161.29 87.63 0)
 			(effects
 				(font
@@ -20344,7 +20344,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "custom1:MX_SK6812MINI-E_REV"
 			(at 114.3 195.58 0)
 			(effects
 				(font
@@ -20574,7 +20574,7 @@
 				)
 			)
 		)
-		(property "Footprint" "key-switches:SW_MX_Kailh_Choc_V1V2_THT_Hybrid"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 323.85 102.87 0)
 			(effects
 				(font
@@ -20730,7 +20730,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "custom1:MX_SK6812MINI-E_REV"
 			(at 186.69 317.5 0)
 			(effects
 				(font
@@ -20894,7 +20894,7 @@
 				)
 			)
 		)
-		(property "Footprint" "key-switches:SW_MX_Kailh_Choc_V1V2_THT_Hybrid"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 292.1 36.83 0)
 			(effects
 				(font
@@ -21116,7 +21116,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "custom1:MX_SK6812MINI-E_REV"
 			(at 152.4 312.42 0)
 			(effects
 				(font
@@ -21280,7 +21280,7 @@
 				)
 			)
 		)
-		(property "Footprint" "key-switches:SW_MX_Kailh_Choc_V1V2_THT_Hybrid"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 146.05 71.12 0)
 			(effects
 				(font
@@ -21524,7 +21524,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "custom1:MX_SK6812MINI-E_REV"
 			(at 129.54 161.29 0)
 			(effects
 				(font
@@ -21688,7 +21688,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "custom1:MX_SK6812MINI-E_REV"
 			(at 57.15 312.42 0)
 			(effects
 				(font
@@ -21830,7 +21830,7 @@
 				)
 			)
 		)
-		(property "Footprint" "key-switches:SW_MX_Kailh_Choc_V1V2_THT_Hybrid"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 48.26 102.87 0)
 			(effects
 				(font
@@ -21898,7 +21898,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "custom1:MX_SK6812MINI-E_REV"
 			(at 91.44 200.66 0)
 			(effects
 				(font
@@ -21974,7 +21974,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "custom1:MX_SK6812MINI-E_REV"
 			(at 209.55 234.95 0)
 			(effects
 				(font
@@ -22050,7 +22050,7 @@
 				)
 			)
 		)
-		(property "Footprint" "key-switches:SW_MX_Kailh_Choc_V1V2_THT_Hybrid"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 114.3 54.61 0)
 			(effects
 				(font
@@ -22118,7 +22118,7 @@
 				)
 			)
 		)
-		(property "Footprint" "key-switches:SW_MX_Kailh_Choc_V1V2_THT_Hybrid"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 307.34 36.83 0)
 			(effects
 				(font
@@ -22186,7 +22186,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "custom1:MX_SK6812MINI-E_REV"
 			(at 207.01 200.66 0)
 			(effects
 				(font
@@ -22688,7 +22688,7 @@
 				)
 			)
 		)
-		(property "Footprint" "key-switches:SW_MX_Kailh_Choc_V1V2_THT_Hybrid"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 228.6 36.83 0)
 			(effects
 				(font
@@ -22756,7 +22756,7 @@
 				)
 			)
 		)
-		(property "Footprint" "key-switches:SW_MX_Kailh_Choc_V1V2_THT_Hybrid"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 323.85 36.83 0)
 			(effects
 				(font
@@ -22824,7 +22824,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "custom1:MX_SK6812MINI-E_REV"
 			(at 114.3 234.95 0)
 			(effects
 				(font
@@ -22900,7 +22900,7 @@
 				)
 			)
 		)
-		(property "Footprint" "key-switches:SW_MX_Kailh_Choc_V1V2_THT_Hybrid"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 275.59 102.87 0)
 			(effects
 				(font
@@ -23144,7 +23144,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "custom1:MX_SK6812MINI-E_REV"
 			(at 167.64 317.5 0)
 			(effects
 				(font
@@ -23571,7 +23571,7 @@
 				)
 			)
 		)
-		(property "Footprint" "key-switches:SW_MX_Kailh_Choc_V1V2_THT_Hybrid"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 292.1 119.38 0)
 			(effects
 				(font
@@ -23639,7 +23639,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "custom1:MX_SK6812MINI-E_REV"
 			(at 93.98 354.33 0)
 			(effects
 				(font
@@ -23715,7 +23715,7 @@
 				)
 			)
 		)
-		(property "Footprint" "key-switches:SW_MX_Kailh_Choc_V1V2_THT_Hybrid"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 146.05 87.63 0)
 			(effects
 				(font
@@ -23871,7 +23871,7 @@
 				)
 			)
 		)
-		(property "Footprint" "key-switches:SW_MX_Kailh_Choc_V1V2_THT_Hybrid"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 323.85 71.12 0)
 			(effects
 				(font
@@ -23939,7 +23939,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "custom1:MX_SK6812MINI-E_REV"
 			(at 133.35 195.58 0)
 			(effects
 				(font
@@ -24015,7 +24015,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "custom1:MX_SK6812MINI-E_REV"
 			(at 129.54 240.03 0)
 			(effects
 				(font
@@ -24179,7 +24179,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "custom1:MX_SK6812MINI-E_REV"
 			(at 76.2 312.42 0)
 			(effects
 				(font
@@ -24255,7 +24255,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "custom1:MX_SK6812MINI-E_REV"
 			(at 110.49 161.29 0)
 			(effects
 				(font
@@ -24331,7 +24331,7 @@
 				)
 			)
 		)
-		(property "Footprint" "key-switches:SW_MX_Kailh_Choc_V1V2_THT_Hybrid"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 339.09 54.61 0)
 			(effects
 				(font
@@ -24575,7 +24575,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "custom1:MX_SK6812MINI-E_REV"
 			(at 95.25 156.21 0)
 			(effects
 				(font
@@ -24651,7 +24651,7 @@
 				)
 			)
 		)
-		(property "Footprint" "key-switches:SW_MX_Kailh_Choc_V1V2_THT_Hybrid"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 146.05 54.61 0)
 			(effects
 				(font
@@ -24719,7 +24719,7 @@
 				)
 			)
 		)
-		(property "Footprint" "key-switches:SW_MX_Kailh_Choc_V1V2_THT_Hybrid"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.25u"
 			(at 81.28 119.38 0)
 			(effects
 				(font
@@ -24875,7 +24875,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "custom1:MX_SK6812MINI-E_REV"
 			(at 34.29 278.13 0)
 			(effects
 				(font
@@ -25127,7 +25127,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "custom1:MX_SK6812MINI-E_REV"
 			(at 57.15 273.05 0)
 			(effects
 				(font
@@ -25203,7 +25203,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "custom1:MX_SK6812MINI-E_REV"
 			(at 72.39 240.03 0)
 			(effects
 				(font
@@ -25279,7 +25279,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "custom1:MX_SK6812MINI-E_REV"
 			(at 72.39 317.5 0)
 			(effects
 				(font
@@ -25355,7 +25355,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "custom1:MX_SK6812MINI-E_REV"
 			(at 171.45 195.58 0)
 			(effects
 				(font
@@ -25519,7 +25519,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "custom1:MX_SK6812MINI-E_REV"
 			(at 207.01 317.5 0)
 			(effects
 				(font
@@ -25683,7 +25683,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "custom1:MX_SK6812MINI-E_REV"
 			(at 110.49 278.13 0)
 			(effects
 				(font
@@ -25847,7 +25847,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "custom1:MX_SK6812MINI-E_REV"
 			(at 148.59 317.5 0)
 			(effects
 				(font
@@ -26011,7 +26011,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "custom1:MX_SK6812MINI-E_REV"
 			(at 209.55 312.42 0)
 			(effects
 				(font
@@ -26087,7 +26087,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "custom1:MX_SK6812MINI-E_REV"
 			(at 152.4 156.21 0)
 			(effects
 				(font
@@ -26251,7 +26251,7 @@
 				)
 			)
 		)
-		(property "Footprint" "key-switches:SW_MX_Kailh_Choc_V1V2_THT_Hybrid"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 245.11 36.83 0)
 			(effects
 				(font
@@ -26407,7 +26407,7 @@
 				)
 			)
 		)
-		(property "Footprint" "key-switches:SW_MX_Kailh_Choc_V1V2_THT_Hybrid"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_6.25u"
 			(at 146.05 119.38 0)
 			(effects
 				(font
@@ -26475,7 +26475,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "custom1:MX_SK6812MINI-E_REV"
 			(at 34.29 161.29 0)
 			(effects
 				(font
@@ -26551,7 +26551,7 @@
 				)
 			)
 		)
-		(property "Footprint" "key-switches:SW_MX_Kailh_Choc_V1V2_THT_Hybrid"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 48.26 54.61 0)
 			(effects
 				(font
@@ -26619,7 +26619,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "custom1:MX_SK6812MINI-E_REV"
 			(at 186.69 161.29 0)
 			(effects
 				(font
@@ -26695,7 +26695,7 @@
 				)
 			)
 		)
-		(property "Footprint" "key-switches:SW_MX_Kailh_Choc_V1V2_THT_Hybrid"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 307.34 87.63 0)
 			(effects
 				(font
@@ -26851,7 +26851,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "custom1:MX_SK6812MINI-E_REV"
 			(at 91.44 240.03 0)
 			(effects
 				(font
@@ -27103,7 +27103,7 @@
 				)
 			)
 		)
-		(property "Footprint" "key-switches:SW_MX_Kailh_Choc_V1V2_THT_Hybrid"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_2.00u_90deg"
 			(at 339.09 102.87 0)
 			(effects
 				(font
@@ -27171,7 +27171,7 @@
 				)
 			)
 		)
-		(property "Footprint" "key-switches:SW_MX_Kailh_Choc_V1V2_THT_Hybrid"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 97.79 54.61 0)
 			(effects
 				(font
@@ -27461,7 +27461,7 @@
 				)
 			)
 		)
-		(property "Footprint" "key-switches:SW_MX_Kailh_Choc_V1V2_THT_Hybrid"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 161.29 36.83 0)
 			(effects
 				(font
@@ -27617,7 +27617,7 @@
 				)
 			)
 		)
-		(property "Footprint" "key-switches:SW_MX_Kailh_Choc_V1V2_THT_Hybrid"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 210.82 54.61 0)
 			(effects
 				(font
@@ -27685,7 +27685,7 @@
 				)
 			)
 		)
-		(property "Footprint" "key-switches:SW_MX_Kailh_Choc_V1V2_THT_Hybrid"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 130.81 54.61 0)
 			(effects
 				(font
@@ -27753,7 +27753,7 @@
 				)
 			)
 		)
-		(property "Footprint" "key-switches:SW_MX_Kailh_Choc_V1V2_THT_Hybrid"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.25u"
 			(at 64.77 119.38 0)
 			(effects
 				(font
@@ -27898,7 +27898,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "custom1:MX_SK6812MINI-E_REV"
 			(at 72.39 278.13 0)
 			(effects
 				(font
@@ -28062,7 +28062,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "custom1:MX_SK6812MINI-E_REV"
 			(at 95.25 234.95 0)
 			(effects
 				(font
@@ -28138,7 +28138,7 @@
 				)
 			)
 		)
-		(property "Footprint" "key-switches:SW_MX_Kailh_Choc_V1V2_THT_Hybrid"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 292.1 87.63 0)
 			(effects
 				(font
@@ -28285,7 +28285,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "custom1:MX_SK6812MINI-E_REV"
 			(at 53.34 161.29 0)
 			(effects
 				(font
@@ -28361,7 +28361,7 @@
 				)
 			)
 		)
-		(property "Footprint" "key-switches:SW_MX_Kailh_Choc_V1V2_THT_Hybrid"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 228.6 71.12 0)
 			(effects
 				(font
@@ -28517,7 +28517,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "custom1:MX_SK6812MINI-E_REV"
 			(at 76.2 195.58 0)
 			(effects
 				(font
@@ -28857,7 +28857,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "custom1:MX_SK6812MINI-E_REV"
 			(at 207.01 278.13 0)
 			(effects
 				(font
@@ -28933,7 +28933,7 @@
 				)
 			)
 		)
-		(property "Footprint" "key-switches:SW_MX_Kailh_Choc_V1V2_THT_Hybrid"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 292.1 71.12 0)
 			(effects
 				(font
@@ -29001,7 +29001,7 @@
 				)
 			)
 		)
-		(property "Footprint" "key-switches:SW_MX_Kailh_Choc_V1V2_THT_Hybrid"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.75u"
 			(at 130.81 87.63 0)
 			(effects
 				(font
@@ -29156,7 +29156,7 @@
 				)
 			)
 		)
-		(property "Footprint" "key-switches:SW_MX_Kailh_Choc_V1V2_THT_Hybrid"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 210.82 102.87 0)
 			(effects
 				(font
@@ -29224,7 +29224,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "custom1:MX_SK6812MINI-E_REV"
 			(at 55.88 354.33 0)
 			(effects
 				(font
@@ -29300,7 +29300,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "custom1:MX_SK6812MINI-E_REV"
 			(at 95.25 273.05 0)
 			(effects
 				(font
@@ -29376,7 +29376,7 @@
 				)
 			)
 		)
-		(property "Footprint" "key-switches:SW_MX_Kailh_Choc_V1V2_THT_Hybrid"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 260.35 54.61 0)
 			(effects
 				(font
@@ -29444,7 +29444,7 @@
 				)
 			)
 		)
-		(property "Footprint" "key-switches:SW_MX_Kailh_Choc_V1V2_THT_Hybrid"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 48.26 36.83 0)
 			(effects
 				(font
@@ -29512,7 +29512,7 @@
 				)
 			)
 		)
-		(property "Footprint" "key-switches:SW_MX_Kailh_Choc_V1V2_THT_Hybrid"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 292.1 54.61 0)
 			(effects
 				(font
@@ -29580,7 +29580,7 @@
 				)
 			)
 		)
-		(property "Footprint" "key-switches:SW_MX_Kailh_Choc_V1V2_THT_Hybrid"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 114.3 71.12 0)
 			(effects
 				(font
@@ -29912,7 +29912,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "custom1:MX_SK6812MINI-E_REV"
 			(at 190.5 195.58 0)
 			(effects
 				(font
@@ -29988,7 +29988,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "custom1:MX_SK6812MINI-E_REV"
 			(at 53.34 317.5 0)
 			(effects
 				(font
@@ -30152,7 +30152,7 @@
 				)
 			)
 		)
-		(property "Footprint" "key-switches:SW_MX_Kailh_Choc_V1V2_THT_Hybrid"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 195.58 71.12 0)
 			(effects
 				(font
@@ -30220,7 +30220,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "custom1:MX_SK6812MINI-E_REV"
 			(at 57.15 195.58 0)
 			(effects
 				(font
@@ -30461,7 +30461,7 @@
 				)
 			)
 		)
-		(property "Footprint" "key-switches:SW_MX_Kailh_Choc_V1V2_THT_Hybrid"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 195.58 102.87 0)
 			(effects
 				(font
@@ -30529,7 +30529,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "custom1:MX_SK6812MINI-E_REV"
 			(at 133.35 156.21 0)
 			(effects
 				(font
@@ -30605,7 +30605,7 @@
 				)
 			)
 		)
-		(property "Footprint" "key-switches:SW_MX_Kailh_Choc_V1V2_THT_Hybrid"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 64.77 36.83 0)
 			(effects
 				(font
@@ -30673,7 +30673,7 @@
 				)
 			)
 		)
-		(property "Footprint" "key-switches:SW_MX_Kailh_Choc_V1V2_THT_Hybrid"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 339.09 71.12 0)
 			(effects
 				(font
@@ -30741,7 +30741,7 @@
 				)
 			)
 		)
-		(property "Footprint" "key-switches:SW_MX_Kailh_Choc_V1V2_THT_Hybrid"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 195.58 54.61 0)
 			(effects
 				(font
@@ -30897,7 +30897,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "custom1:MX_SK6812MINI-E_REV"
 			(at 36.83 273.05 0)
 			(effects
 				(font
@@ -31061,7 +31061,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "custom1:MX_SK6812MINI-E_REV"
 			(at 152.4 195.58 0)
 			(effects
 				(font
@@ -31137,7 +31137,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "custom1:MX_SK6812MINI-E_REV"
 			(at 170.18 354.33 0)
 			(effects
 				(font
@@ -31213,7 +31213,7 @@
 				)
 			)
 		)
-		(property "Footprint" "key-switches:SW_MX_Kailh_Choc_V1V2_THT_Hybrid"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 275.59 87.63 0)
 			(effects
 				(font
@@ -31281,7 +31281,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "custom1:MX_SK6812MINI-E_REV"
 			(at 167.64 278.13 0)
 			(effects
 				(font
@@ -31357,7 +31357,7 @@
 				)
 			)
 		)
-		(property "Footprint" "key-switches:SW_MX_Kailh_Choc_V1V2_THT_Hybrid"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 114.3 102.87 0)
 			(effects
 				(font
@@ -31425,7 +31425,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "custom1:MX_SK6812MINI-E_REV"
 			(at 171.45 273.05 0)
 			(effects
 				(font
@@ -31501,7 +31501,7 @@
 				)
 			)
 		)
-		(property "Footprint" "key-switches:SW_MX_Kailh_Choc_V1V2_THT_Hybrid"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 275.59 36.83 0)
 			(effects
 				(font
@@ -31569,7 +31569,7 @@
 				)
 			)
 		)
-		(property "Footprint" "key-switches:SW_MX_Kailh_Choc_V1V2_THT_Hybrid"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.50u"
 			(at 307.34 71.12 0)
 			(effects
 				(font
@@ -31725,7 +31725,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "custom1:MX_SK6812MINI-E_REV"
 			(at 209.55 273.05 0)
 			(effects
 				(font
@@ -31801,7 +31801,7 @@
 				)
 			)
 		)
-		(property "Footprint" "key-switches:SW_MX_Kailh_Choc_V1V2_THT_Hybrid"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 97.79 102.87 0)
 			(effects
 				(font
@@ -31869,7 +31869,7 @@
 				)
 			)
 		)
-		(property "Footprint" "key-switches:SW_MX_Kailh_Choc_V1V2_THT_Hybrid"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 177.8 102.87 0)
 			(effects
 				(font
@@ -32201,7 +32201,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "custom1:MX_SK6812MINI-E_REV"
 			(at 167.64 240.03 0)
 			(effects
 				(font
@@ -32365,7 +32365,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "custom1:MX_SK6812MINI-E_REV"
 			(at 171.45 156.21 0)
 			(effects
 				(font
@@ -32441,7 +32441,7 @@
 				)
 			)
 		)
-		(property "Footprint" "key-switches:SW_MX_Kailh_Choc_V1V2_THT_Hybrid"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 339.09 87.63 0)
 			(effects
 				(font
@@ -32509,7 +32509,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "custom1:MX_SK6812MINI-E_REV"
 			(at 36.83 156.21 0)
 			(effects
 				(font
@@ -32585,7 +32585,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "custom1:MX_SK6812MINI-E_REV"
 			(at 36.83 354.33 0)
 			(effects
 				(font
@@ -32749,7 +32749,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "custom1:MX_SK6812MINI-E_REV"
 			(at 151.13 354.33 0)
 			(effects
 				(font
@@ -32891,7 +32891,7 @@
 				)
 			)
 		)
-		(property "Footprint" "key-switches:SW_MX_Kailh_Choc_V1V2_THT_Hybrid"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 228.6 87.63 0)
 			(effects
 				(font
@@ -33047,7 +33047,7 @@
 				)
 			)
 		)
-		(property "Footprint" "key-switches:SW_MX_Kailh_Choc_V1V2_THT_Hybrid"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.25u"
 			(at 195.58 119.38 0)
 			(effects
 				(font
@@ -33115,7 +33115,7 @@
 				)
 			)
 		)
-		(property "Footprint" "key-switches:SW_MX_Kailh_Choc_V1V2_THT_Hybrid"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 177.8 71.12 0)
 			(effects
 				(font
@@ -33183,7 +33183,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "custom1:MX_SK6812MINI-E_REV"
 			(at 113.03 354.33 0)
 			(effects
 				(font
@@ -33413,7 +33413,7 @@
 				)
 			)
 		)
-		(property "Footprint" "key-switches:SW_MX_Kailh_Choc_V1V2_THT_Hybrid"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 177.8 36.83 0)
 			(effects
 				(font
@@ -33560,7 +33560,7 @@
 				)
 			)
 		)
-		(property "Footprint" "key-switches:SW_MX_Kailh_Choc_V1V2_THT_Hybrid"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 81.28 87.63 0)
 			(effects
 				(font
@@ -33628,7 +33628,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "custom1:MX_SK6812MINI-E_REV"
 			(at 129.54 278.13 0)
 			(effects
 				(font
@@ -33704,7 +33704,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "custom1:MX_SK6812MINI-E_REV"
 			(at 76.2 234.95 0)
 			(effects
 				(font
@@ -33780,7 +33780,7 @@
 				)
 			)
 		)
-		(property "Footprint" "key-switches:SW_MX_Kailh_Choc_V1V2_THT_Hybrid"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 48.26 87.63 0)
 			(effects
 				(font
@@ -33848,7 +33848,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "custom1:MX_SK6812MINI-E_REV"
 			(at 133.35 273.05 0)
 			(effects
 				(font
@@ -33924,7 +33924,7 @@
 				)
 			)
 		)
-		(property "Footprint" "key-switches:SW_MX_Kailh_Choc_V1V2_THT_Hybrid"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.50u"
 			(at 97.79 71.12 0)
 			(effects
 				(font
@@ -33992,7 +33992,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "custom1:MX_SK6812MINI-E_REV"
 			(at 186.69 278.13 0)
 			(effects
 				(font
@@ -34068,7 +34068,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "custom1:MX_SK6812MINI-E_REV"
 			(at 91.44 278.13 0)
 			(effects
 				(font
@@ -34144,7 +34144,7 @@
 				)
 			)
 		)
-		(property "Footprint" "key-switches:SW_MX_Kailh_Choc_V1V2_THT_Hybrid"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 307.34 119.38 0)
 			(effects
 				(font
@@ -34212,7 +34212,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "custom1:MX_SK6812MINI-E_REV"
 			(at 152.4 234.95 0)
 			(effects
 				(font
@@ -34288,7 +34288,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "custom1:MX_SK6812MINI-E_REV"
 			(at 133.35 234.95 0)
 			(effects
 				(font
@@ -34452,7 +34452,7 @@
 				)
 			)
 		)
-		(property "Footprint" "key-switches:SW_MX_Kailh_Choc_V1V2_THT_Hybrid"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 228.6 102.87 0)
 			(effects
 				(font
@@ -34608,7 +34608,7 @@
 				)
 			)
 		)
-		(property "Footprint" "key-switches:SW_MX_Kailh_Choc_V1V2_THT_Hybrid"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.25u"
 			(at 245.11 119.38 0)
 			(effects
 				(font
@@ -34676,7 +34676,7 @@
 				)
 			)
 		)
-		(property "Footprint" "key-switches:SW_MX_Kailh_Choc_V1V2_THT_Hybrid"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 81.28 54.61 0)
 			(effects
 				(font
@@ -34744,7 +34744,7 @@
 				)
 			)
 		)
-		(property "Footprint" "key-switches:SW_MX_Kailh_Choc_V1V2_THT_Hybrid"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 307.34 54.61 0)
 			(effects
 				(font
@@ -34812,7 +34812,7 @@
 				)
 			)
 		)
-		(property "Footprint" "key-switches:SW_MX_Kailh_Choc_V1V2_THT_Hybrid"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 323.85 54.61 0)
 			(effects
 				(font
@@ -34968,7 +34968,7 @@
 				)
 			)
 		)
-		(property "Footprint" "key-switches:SW_MX_Kailh_Choc_V1V2_THT_Hybrid"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 210.82 36.83 0)
 			(effects
 				(font
@@ -35212,7 +35212,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "custom1:MX_SK6812MINI-E_REV"
 			(at 114.3 312.42 0)
 			(effects
 				(font
@@ -35288,7 +35288,7 @@
 				)
 			)
 		)
-		(property "Footprint" "key-switches:SW_MX_Kailh_Choc_V1V2_THT_Hybrid"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_2.00u"
 			(at 323.85 119.38 0)
 			(effects
 				(font
@@ -35356,7 +35356,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "custom1:MX_SK6812MINI-E_REV"
 			(at 190.5 156.21 0)
 			(effects
 				(font
@@ -35432,7 +35432,7 @@
 				)
 			)
 		)
-		(property "Footprint" "key-switches:SW_MX_Kailh_Choc_V1V2_THT_Hybrid"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 195.58 87.63 0)
 			(effects
 				(font
@@ -35500,7 +35500,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "custom1:MX_SK6812MINI-E_REV"
 			(at 129.54 200.66 0)
 			(effects
 				(font
@@ -35664,7 +35664,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "custom1:MX_SK6812MINI-E_REV"
 			(at 209.55 156.21 0)
 			(effects
 				(font
@@ -35740,7 +35740,7 @@
 				)
 			)
 		)
-		(property "Footprint" "key-switches:SW_MX_Kailh_Choc_V1V2_THT_Hybrid"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 97.79 87.63 0)
 			(effects
 				(font
@@ -35808,7 +35808,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "custom1:MX_SK6812MINI-E_REV"
 			(at 110.49 317.5 0)
 			(effects
 				(font
@@ -35884,7 +35884,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "custom1:MX_SK6812MINI-E_REV"
 			(at 152.4 273.05 0)
 			(effects
 				(font
@@ -35960,7 +35960,7 @@
 				)
 			)
 		)
-		(property "Footprint" "key-switches:SW_MX_Kailh_Choc_V1V2_THT_Hybrid"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 275.59 119.38 0)
 			(effects
 				(font
@@ -36094,7 +36094,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "custom1:MX_SK6812MINI-E_REV"
 			(at 129.54 317.5 0)
 			(effects
 				(font
@@ -36258,7 +36258,7 @@
 				)
 			)
 		)
-		(property "Footprint" "key-switches:SW_MX_Kailh_Choc_V1V2_THT_Hybrid"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 81.28 36.83 0)
 			(effects
 				(font
@@ -36546,7 +36546,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "custom1:MX_SK6812MINI-E_REV"
 			(at 190.5 273.05 0)
 			(effects
 				(font
@@ -36622,7 +36622,7 @@
 				)
 			)
 		)
-		(property "Footprint" "key-switches:SW_MX_Kailh_Choc_V1V2_THT_Hybrid"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 339.09 36.83 0)
 			(effects
 				(font
@@ -36690,7 +36690,7 @@
 				)
 			)
 		)
-		(property "Footprint" "key-switches:SW_MX_Kailh_Choc_V1V2_THT_Hybrid"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 161.29 54.61 0)
 			(effects
 				(font
@@ -36846,7 +36846,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "custom1:MX_SK6812MINI-E_REV"
 			(at 34.29 317.5 0)
 			(effects
 				(font
@@ -37318,7 +37318,7 @@
 				)
 			)
 		)
-		(property "Footprint" "key-switches:SW_MX_Kailh_Choc_V1V2_THT_Hybrid"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 64.77 71.12 0)
 			(effects
 				(font
@@ -37386,7 +37386,7 @@
 				)
 			)
 		)
-		(property "Footprint" "key-switches:SW_MX_Kailh_Choc_V1V2_THT_Hybrid"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.25u"
 			(at 228.6 119.38 0)
 			(effects
 				(font
@@ -37454,7 +37454,7 @@
 				)
 			)
 		)
-		(property "Footprint" "key-switches:SW_MX_Kailh_Choc_V1V2_THT_Hybrid"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 245.11 54.61 0)
 			(effects
 				(font
@@ -37522,7 +37522,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "custom1:MX_SK6812MINI-E_REV"
 			(at 110.49 200.66 0)
 			(effects
 				(font
@@ -37598,7 +37598,7 @@
 				)
 			)
 		)
-		(property "Footprint" "key-switches:SW_MX_Kailh_Choc_V1V2_THT_Hybrid"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 114.3 36.83 0)
 			(effects
 				(font
@@ -37666,7 +37666,7 @@
 				)
 			)
 		)
-		(property "Footprint" "key-switches:SW_MX_Kailh_Choc_V1V2_THT_Hybrid"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 292.1 102.87 0)
 			(effects
 				(font
@@ -37734,7 +37734,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "custom1:MX_SK6812MINI-E_REV"
 			(at 148.59 240.03 0)
 			(effects
 				(font
@@ -37898,7 +37898,7 @@
 				)
 			)
 		)
-		(property "Footprint" "key-switches:SW_MX_Kailh_Choc_V1V2_THT_Hybrid"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_2.25u"
 			(at 81.28 102.87 0)
 			(effects
 				(font
@@ -37966,7 +37966,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "custom1:MX_SK6812MINI-E_REV"
 			(at 95.25 195.58 0)
 			(effects
 				(font
@@ -38042,7 +38042,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "custom1:MX_SK6812MINI-E_REV"
 			(at 207.01 161.29 0)
 			(effects
 				(font
@@ -38382,7 +38382,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "custom1:MX_SK6812MINI-E_REV"
 			(at 76.2 273.05 0)
 			(effects
 				(font
@@ -38612,7 +38612,7 @@
 				)
 			)
 		)
-		(property "Footprint" "key-switches:SW_MX_Kailh_Choc_V1V2_THT_Hybrid"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 146.05 36.83 0)
 			(effects
 				(font
@@ -38680,7 +38680,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "custom1:MX_SK6812MINI-E_REV"
 			(at 171.45 234.95 0)
 			(effects
 				(font
@@ -38756,7 +38756,7 @@
 				)
 			)
 		)
-		(property "Footprint" "key-switches:SW_MX_Kailh_Choc_V1V2_THT_Hybrid"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
 			(at 146.05 102.87 0)
 			(effects
 				(font
@@ -39233,7 +39233,7 @@
 				)
 			)
 		)
-		(property "Footprint" "KiCad-SSD1306-0.91-OLED-4pin-128x32:SSD1306-0.91-OLED-4pin-128x32"
+		(property "Footprint" "custom1:SSD1306-0.91-OLED-4pin-128x32"
 			(at 299.72 147.32 0)
 			(effects
 				(font
@@ -39461,7 +39461,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "custom1:MX_SK6812MINI-E_REV"
 			(at 171.45 312.42 0)
 			(effects
 				(font
@@ -39537,7 +39537,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "custom1:MX_SK6812MINI-E_REV"
 			(at 91.44 317.5 0)
 			(effects
 				(font
@@ -39613,7 +39613,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "custom1:MX_SK6812MINI-E_REV"
 			(at 186.69 200.66 0)
 			(effects
 				(font
@@ -39689,7 +39689,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "custom1:MX_SK6812MINI-E_REV"
 			(at 148.59 200.66 0)
 			(effects
 				(font
