@@ -23,3 +23,4 @@
 *.gbr filter=lfs diff=lfs merge=lfs -text
 *.drl filter=lfs diff=lfs merge=lfs -text
 *.gbrjob filter=lfs diff=lfs merge=lfs -text
+*.stl filter=lfs diff=lfs merge=lfs -text
