@@ -1,0 +1,28 @@
+Item Count,item name,Unit price $,Total Price*,Price with discounts*,Link,Running total $*,Running total with coupons*,part number,Notes
+1,Raspi pico,5,5,5,https://www.adafruit.com/product/5525,5.3,5.3,1,
+0,MCP23017-E/SP,2.8633,0,0,https://www.lcsc.com/product-detail/C647352.html,5.3,5.3,2,
+0,DUROCK MX Hotswap PCB Socket ,12.99,0,0,https://www.amazon.com/DUROCK-Mechanical-Keyboard-Switches-Hot-Swap/dp/B0B4W9YMGM,5.3,5.3,3,comes in a pack of 110 sockets
+110,1N4148-t50A diode,0.0338,3.72,3.72,https://www.lcsc.com/product-detail/C895215.html,9.24,9.24,4,packs of 10
+0,4.7kΩ Resister,0.0104,0,0,https://www.lcsc.com/product-detail/C172560.html,9.24,9.24,5,
+108,keycaps,0,0,0,https://www.printables.com/model/118708-simple-cherry-mx-keycap,9.24,9.24,6,1g each can print myself
+1,Outemu(Gaote) Blue Switches,21.99,21.99,21.99,https://www.amazon.com/gp/product/B0CBSL2Z75,32.55,32.55,7,pack of 108 price
+0,rotary encoder,2.0254,0,0,https://www.lcsc.com/product-detail/C470754.html?s_z=n_EC11,32.55,32.55,8,
+1,PCB mount stabalizers,21.99,21.99,21.99,https://www.amazon.com/gp/product/B0CHZ4YD9W?psc=1,55.86,55.86,9,100% kit
+1,PCB,37.4,37.4,37.4,https://www.jlcpcb.com,95.5,95.5,10,jlcpcb price is cheaper then pcbway before shipping
+0,oled display,2.43,0,0,https://www.aliexpress.us/item/3256808041069220.html,95.5,95.5,11,
+0,pin header for oled,0.3233,0,0,https://www.lcsc.com/product-detail/C19795120.html,95.5,95.5,12,packs of 5
+0,100nF cap,0.4264,0,0,https://www.lcsc.com/product-detail/C1622885.html,95.5,95.5,13,
+1,case,0,0,0,https://www.tinkercad.com/things/01yfcJqc3YT-ingenious-bigery-lappi/edit?sharecode=nC_VnJf1HsXTyW1O5QeXRIFHX63alX2Tb5NiMYivruU,95.5,95.5,14,print my self/make out of cardboard
+1,Shipping for PCB,58.5,58.5,26.32,N/A,157.51,123.4,,First shipping cost is for DHL express second one is for GDL
+1,digikey shipping and tarrifs,5.36,5.36,5.36,,163.19,129.08,,±$5
+1,Adafruit shipping,5.99,5.99,5.99,,169.54,135.43,,
+1,amazon shipping,0,0,0,,169.54,135.43,,over min amount for free shipping
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,*Rounded to two decimal places,,
