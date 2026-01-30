@@ -2,6 +2,8 @@
 This is a 108 key keyboard that follows the ansi 104 key layout with 4 extra keys above the numpad. It has spots for two rotary encoders and a oled but to start i am going to not include those to reduce cost.
 
 I wanted to make this to allow me to try a mechanical keyboard without needing to spend $200+ for a lowend mechanical keyboard and to give a chance to use QMK firmware.
+
+To make this keyboard for your self upload the gerbers in [/pcb](/pcb) to your prefered pcb site. case is designed to be 3d printed both sides are the same part so just print the 3d model in [/cad](/cad) twice then rotate to fit. firmware is built like any qmk firmware instructions are in the folder as well.
 ![keyboard in case](images/2026-01-05-145020_hyprshot.png)
 ![case](images/2025-12-29-231431_hyprshot.png)
 ![keyboard PCB](images/2026-01-05-141144_hyprshot.png)
