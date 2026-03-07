@@ -185,6 +185,10 @@
   },
   "active": "47676ce726c5fab1",
   "lastOpenFiles": [
+    "CAD/Case_bottom.20260307-153519.FCBak",
+    "CAD/Case_bottom.FCStd.8536cc49-8a5b-4c4c-a793-efd3ddbbf4a8",
+    "BOM.png",
+    "README.md",
     "PCB/gerbers.zip",
     "PCB/gerbers.zip.xlkaj4.part",
     "PCB/full-keyboard.stl",
@@ -194,15 +198,12 @@
     "PCB/~_autosave-full-keyboard.kicad_pcb.lck",
     "PCB/full-keyboard-backups/full-keyboard-2026-03-07_161910.zip",
     "PCB/_autosave-full-keyboard.kicad_pcb",
-    "PCB/~full-keyboard.kicad_pcb.lck",
-    "PCB/full-keyboard-backups/full-keyboard-2026-03-07_153644.zip",
     "images/PCB.png",
     "images/case.png",
     "images/2026-01-05-145020_hyprshot.png",
     "images/2026-01-05-141144_hyprshot.png",
     "images/2025-12-29-231431_hyprshot.png",
     "images/2025-12-29-222724_hyprshot.png",
-    "README.md",
     "JOURNAL.md"
   ]
 }

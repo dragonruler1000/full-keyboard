@@ -1,16 +1,14 @@
 Item Count,item name,Unit price $,Total Price*,Price with discounts*,Link,Running total $*,Running total with coupons*,part number,Notes
-1,Raspi pico,5,5,5,https://www.adafruit.com/product/4883,5.3,5.3,1,
-110,1N4148-t50A diode,0.0314,3.45,3.45,https://www.lcsc.com/product-detail/C895215.html,8.96,8.96,4,packs of 10
-108,keycaps,0,0,0,https://www.printables.com/model/118708-simple-cherry-mx-keycap,8.96,8.96,6,1g each can print myself
-1,Outemu(Gaote) Blue Switches,21.99,21.99,21.99,https://www.amazon.com/gp/product/B0CBSL2Z75,32.27,32.27,7,pack of 108 price
-1,DUROCK PCB mount stabalizers,18.99,18.99,18.99,https://www.amazon.com/gp/product/B0B2RVN19F?psc=1,52.4,52.4,9,full set
-1,PCB,37.7,37.7,37.7,https://www.jlcpcb.com,92.36,92.36,10,jlcpcb price is cheaper then pcbway before shipping
-1,case,0,0,0,https://www.tinkercad.com/things/01yfcJqc3YT-ingenious-bigery-lappi/edit?sharecode=nC_VnJf1HsXTyW1O5QeXRIFHX63alX2Tb5NiMYivruU,92.36,92.36,14,print my self/make out of cardboard
-1,Shipping for PCB,41.4,41.4,22.16,N/A,136.24,115.85,,First shipping cost is for DHL express second one is for GDL
-1,digikey shipping and tarrifs,5.36,5.36,5.36,,141.92,121.53,,±$5
-1,Adafruit shipping,5.72,5.72,5.72,,147.98,127.59,,
-1,amazon shipping,0,0,0,,147.98,127.59,,over min amount for free shipping/have a 30 trial of amazon prime
-,,,,,,,,,
-,,,,,,,,,
+1,Raspi pico,5,5,5,https://www.adafruit.com/product/5525,5.3,5.3,1,
+110,1N4148-t50A diode,0.0307,3.38,3.38,https://www.lcsc.com/product-detail/C895215.html,8.88,8.88,4,packs of 10
+108,keycaps,0,0,0,https://www.printables.com/model/118708-simple-cherry-mx-keycap,8.88,8.88,6,1g each can print myself
+1,Outemu(Gaote) Blue Switches,21.99,21.99,21.99,https://www.amazon.com/gp/product/B0CBSL2Z75,32.19,32.19,7,pack of 108 price
+1,DUROCK PCB mount stabalizers,17.99,17.99,17.99,https://www.amazon.com/gp/product/B0B2RVN19F?psc=1,51.26,51.26,9,full set
+1,PCB,35.3,35.3,35.3,https://www.jlcpcb.com,88.68,88.68,10,jlcpcb price is cheaper then pcbway before shipping
+1,case,0,0,0,N/A,88.68,88.68,14,print my self/make out of cardboard
+1,Shipping for PCB,41.4,41.4,22.16,N/A,132.56,112.17,,First shipping cost is for DHL express second one is for GDL
+1,digikey shipping and tarrifs,5.36,5.36,5.36,N/A,138.24,117.85,,±$5
+1,Adafruit shipping,5.72,5.72,5.72,N/A,144.3,123.91,,
+1,amazon shipping,0,0,0,N/A,144.3,123.91,,over min amount for free shipping/have a 30 trial of amazon prime
 ,,,,,,,,,
 ,,,,,,,*Rounded to two decimal places,,
