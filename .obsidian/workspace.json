@@ -183,8 +183,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "040e28a7bd0350f9",
+  "active": "47676ce726c5fab1",
   "lastOpenFiles": [
+    "PCB/~_autosave-full-keyboard.kicad_pcb.lck",
+    "PCB/full-keyboard-backups/full-keyboard-2026-03-07_161910.zip",
+    "PCB/_autosave-full-keyboard.kicad_pcb",
     "PCB/~full-keyboard.kicad_pcb.lck",
     "PCB/full-keyboard-backups/full-keyboard-2026-03-07_153644.zip",
     "CAD/Case_bottom-Body.step",
@@ -200,9 +203,6 @@
     "images/2025-12-29-231431_hyprshot.png",
     "images/2025-12-29-222724_hyprshot.png",
     "README.md",
-    "lu306831zo.tmp",
-    "lu306831zm.tmp",
-    "lu306831zi.tmp",
     "JOURNAL.md"
   ]
 }
