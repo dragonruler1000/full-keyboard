@@ -185,6 +185,8 @@
   },
   "active": "47676ce726c5fab1",
   "lastOpenFiles": [
+    "PCB/gerbers.zip",
+    "PCB/gerbers.zip.xlkaj4.part",
     "PCB/full-keyboard.stl",
     "PCB/$tempfile$.stl",
     "PCB/~_autosave-full-keyboard.kicad_pro.lck",
@@ -194,8 +196,6 @@
     "PCB/_autosave-full-keyboard.kicad_pcb",
     "PCB/~full-keyboard.kicad_pcb.lck",
     "PCB/full-keyboard-backups/full-keyboard-2026-03-07_153644.zip",
-    "CAD/Case_bottom-Body.step",
-    "CAD/Case_bottom-Body.3mf",
     "images/PCB.png",
     "images/case.png",
     "images/2026-01-05-145020_hyprshot.png",
