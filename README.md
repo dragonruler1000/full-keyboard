@@ -3,7 +3,7 @@ This is a 108 key keyboard that follows the ansi 104 key layout with 4 extra key
 
 I wanted to make this to allow me to try a mechanical keyboard without needing to spend $200+ for a lowend mechanical keyboard and to give a chance to use QMK firmware.
 
-To make this keyboard for your self upload the gerbers in [/PCB](/PCB) to your prefered pcb site. the case is split into 2 parts the fies will be in [/CAD](/CAD) when i upload them. firmware is built like any qmk firmware. instructions are in the folder as well. other parts are listed below and in BOM.csv and BOM.ods
+To make this keyboard for your self upload the gerbers in [/PCB](/PCB) to your prefered pcb site. the case is split into 2 parts the files are in [/CAD](/CAD). firmware is built like any qmk firmware. instructions are in the folder as well. other parts are listed below and in BOM.csv and BOM.ods
 ![keyboard in case](images/case_with_pcb.png)
 ![case](images/case.png)
 ![keyboard PCB](images/PCB.png)
